@@ -1,0 +1,6 @@
+{
+  "name": "Vāstu Chakra — House Plan Analyzer",
+  "description": "Authentic, degree-accurate Vāstu Chakra house plan analyzer with survey-grade orientation, polygon zoning (8/16 zones and 9x9 Maṇḍala), verified classical citations, and feasible architectural remedies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
