@@ -6,6 +6,8 @@
 
 ## 🌐 Live URLs
 
+- **Vercel Production App**: [https://vastu-chakra-house-plan-analyzer.vercel.app](https://vastu-chakra-house-plan-analyzer.vercel.app)
+- **Vercel Project URL**: [https://vastu-chakra-house-plan-analyzer-im5g97gua-pawanpaji.vercel.app](https://vastu-chakra-house-plan-analyzer-im5g97gua-pawanpaji.vercel.app)
 - **AI Studio Live App**: [https://ais-pre-y44jdy6a57jtvk5whfew5x-279333895425.asia-southeast1.run.app](https://ais-pre-y44jdy6a57jtvk5whfew5x-279333895425.asia-southeast1.run.app)
 - **AI Studio Development Preview**: [https://ais-dev-y44jdy6a57jtvk5whfew5x-279333895425.asia-southeast1.run.app](https://ais-dev-y44jdy6a57jtvk5whfew5x-279333895425.asia-southeast1.run.app)
 
